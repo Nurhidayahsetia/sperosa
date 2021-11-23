@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMP NEGERI 2 SAYUNG</string>
+    <string name="pindah_ke_profil">profil</string>
+    <string name="pindah_ke_visi_misi">visi_misi</string>
+    <string name="pindah_ke_galeri">galeri</string>
+    <string name="pindah_ke_sarana">sarana</string>
+    <string name="pindah_ke_guru_staff">guru_staff</string>
+    <string name="pindah_ke_ekstrakulikuler">ekstrakulikuler</string>
+    <string name="pindah_ke_guru">guru</string>
+    <string name="pindah_ke_staff">staff</string>
+</resources>
