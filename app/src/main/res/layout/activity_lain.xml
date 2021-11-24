@@ -10,9 +10,9 @@
     <ImageView
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:layout_width="320dp"
-        android:layout_height="400dp"
+        android:layout_width="310sp"
+        android:layout_height="400sp"
         android:src="@drawable/lain"
-        android:layout_margin="30dp"/>
+        android:layout_margin="30sp"/>
 
 </RelativeLayout>

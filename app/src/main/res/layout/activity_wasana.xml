@@ -8,18 +8,18 @@
     android:background="@drawable/layout6">
 
     <ImageView
-        android:layout_width="320dp"
+        android:layout_width="320sp"
         android:layout_centerHorizontal="true"
-        android:layout_height="250dp"
+        android:layout_height="250sp"
         android:src="@drawable/warsa"
-        android:layout_margin="50dp"/>
+        android:layout_margin="50sp"/>
 
     <ImageView
-        android:layout_width="315dp"
+        android:layout_width="315sp"
         android:layout_centerHorizontal="true"
-        android:layout_height="250dp"
-        android:layout_marginTop="300dp"
-        android:layout_marginBottom="30dp"
+        android:layout_height="250sp"
+        android:layout_marginTop="300sp"
+        android:layout_marginBottom="30sp"
         android:src="@drawable/wasana" />
 
 </RelativeLayout>
