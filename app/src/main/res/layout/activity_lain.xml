@@ -4,11 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".lain">
+    tools:context=".lain"
+    android:background="@drawable/layout6">
 
     <ImageView
         android:layout_centerVertical="true"
-        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_width="320dp"
         android:layout_height="400dp"
         android:src="@drawable/lain"
         android:layout_margin="30dp"/>
